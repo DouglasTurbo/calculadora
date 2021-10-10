@@ -1,0 +1,81 @@
+.corpo{
+    height: 500px;
+    width: 400px;
+    background-color: #b5b5b5;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-radius: 5%;
+    padding-top: 1%;
+    border: 3px solid;
+}
+
+.visor{
+    height: 70px;
+    width: 350px;
+    background-color: white;
+    margin-left: 6%; 
+    border-radius: 15px;
+    border: 2px solid;
+    text-align: end;  
+    padding-right: 10px;
+    font-size: 50px; 
+}
+
+.linha{
+    height: 70px;
+    width: 350px;
+    margin-left: 6%;
+    margin-top: 5px;
+}
+
+.linha1{
+    margin-top: 15px;
+}
+
+.botao-cinza{
+    height: 90%;
+    width: 23%;
+    margin: 1%;
+    background-color: grey;
+    border-radius: 5px;
+    border: 1px solid;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.botao-laranja{
+    height: 90%;
+    width: 23%;
+    margin: 1%;
+    background-color: orange;
+    border-radius: 5px;
+    border: 1px solid;
+    color: white;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.botao-preto{
+    height: 90%;
+    width: 23%;
+    margin: 1%;
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid;
+    color: white;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
