@@ -2,7 +2,7 @@
     height: 500px;
     width: 400px;
     background-color: #b5b5b5;
-    margin-left: 40%;
+    margin-left: 5%;
     margin-top: 10%;
     border-radius: 5%;
     padding-top: 1%;
@@ -19,6 +19,16 @@
     text-align: end;  
     padding-right: 10px;
     font-size: 50px; 
+}
+
+.cursor{
+    cursor: pointer;
+}
+
+.cursor:active{
+    position: relative;
+    top: 5px;
+    box-shadow: none;
 }
 
 .linha{
@@ -72,10 +82,3 @@
     font-size: 20px;
     font-weight: 600;
 }
-
-
-
-
-
-
-
